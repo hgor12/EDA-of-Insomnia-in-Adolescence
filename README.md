@@ -7,9 +7,3 @@ This project uses data collected as part of a larger study funded by the Nationa
 * <b>Dataset</b>: <a href="[https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip](https://figshare.com/articles/dataset/Insomnia_in_adolescence/19214676?file=34138404)">Insomnia in Adolescence</a> [20Mb]
 
 * <b>Description</b>: Data are based on self-report rating of demographic data and standardized questionnaires assessing insomnia-relevant factors in adolescents, including sleep quality and habits, sleep-related cognition, stress, and stress reactivity, coping and emotion regulation behavior, mood, personality, and childhood trauma.
-
-
-The following descriptions of the 9 variables in the dataset are taken
-from
-the <a href="[https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9411582/)">UCI
-web site</a>:
