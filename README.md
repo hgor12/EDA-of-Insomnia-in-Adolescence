@@ -1,26 +1,17 @@
-# EDA-of-Insomnia-in-Adolescence
+# EDA-Insomnia-in-Adolescence
 
 ## Introduction
 
-This assignment uses data from
-the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
-Learning Repository</a>, a popular repository for machine learning
-datasets. In particular, we will be using the "Individual household
-electric power consumption Data Set" which I have made available on
-the course web site:
+This project uses data collected as part of a larger study funded by the National Heart, Lung and Blood Institute investigating the pathophysiology of insomnia in adolescence.
 
+* <b>Dataset</b>: <a href="[https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip](https://figshare.com/articles/dataset/Insomnia_in_adolescence/19214676?file=34138404)">Insomnia in Adolescence</a> [20Mb]
 
-* <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
-
-* <b>Description</b>: Measurements of electric power consumption in
-one household with a one-minute sampling rate over a period of almost
-4 years. Different electrical quantities and some sub-metering values
-are available.
+* <b>Description</b>: Data are based on self-report rating of demographic data and standardized questionnaires assessing insomnia-relevant factors in adolescents, including sleep quality and habits, sleep-related cognition, stress, and stress reactivity, coping and emotion regulation behavior, mood, personality, and childhood trauma.
 
 
 The following descriptions of the 9 variables in the dataset are taken
 from
-the <a href="https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption">UCI
+the <a href="[https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9411582/)">UCI
 web site</a>:
 
 <ol>
